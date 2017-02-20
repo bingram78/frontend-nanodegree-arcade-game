@@ -68,14 +68,14 @@ Player.prototype.update = function(dt) {
   };
   //Collision detection algorithm.
   allEnemies.forEach(function(enemy) {
-    if (player.x < enemy.x + 40 &&
-        player.x > enemy.x &&
-        player.y < enemy.y + 40 &&
-        player.y > enemy.y) {
-          player.reset();
+    if (this.x < enemy.x + 40 &&
+        this.x > enemy.x &&
+        this.y < enemy.y + 40 &&
+        this.y > enemy.y) {
+          this.reset();
           document.getElementById('winner').innerHTML ='Try Again!'
         };
-    });
+    }, this);
 };
 
 //Render player when game loads.
