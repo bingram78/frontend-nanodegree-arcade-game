@@ -2,9 +2,9 @@
 ## This is my version of the arcade game assignment from Udacity's Front-End Developer Nanodegree.
 
 Directions:
-*Use the arrow keys to avoid the bug enemies.
-*Once you reach the blue water at the top you have won (that's very easy to do).
-*Press up to start the game over once you win.
+* Use the arrow keys to avoid the bug enemies.
+* Once you reach the blue water at the top you have won (that's very easy to do).
+* Press up to start the game over once you win.
 
 Thanks!
 
