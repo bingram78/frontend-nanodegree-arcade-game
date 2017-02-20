@@ -2,14 +2,16 @@
 ## This is my version of the arcade game assignment from Udacity's Front-End Developer Nanodegree.
 
 Directions:
-* Use the arrow keys to avoid the bug enemies.
-* Once you reach the blue water at the top you have won (that's very easy to do).
+* Open the enclosed HTML file (index.html). The game will load and be ready to play.
+* Use the arrow keys to avoid the wretched bug enemies.
+* Once you reach the blue water at the top you have won (that's very easy to do in my game).
 * Press up to start the game over once you win.
 
 Thanks!
 
 
-###From Udacity's assignment
+
+##From Udacity's assignment
 
 frontend-nanodegree-arcade-game
 ===============================
