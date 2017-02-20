@@ -2,12 +2,6 @@
 App.js
 */
 
-/*
-Height and Width for player and enemy are the same so
-assign a global variable to use in collision detection.
-*/
-var imgDim = {w:101, h:171};
-
 // Enemies our player must avoid
 var Enemy = function(x, y) {
   // Variables applied to each of our instances go here,
